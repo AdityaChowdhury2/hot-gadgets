@@ -1,0 +1,18 @@
+* {
+    transition: .3s all ease-in-out;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-section{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 8%;
+}
+.carousel-item{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 5%;
+}
