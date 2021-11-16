@@ -16,3 +16,23 @@ body{
     background-position: center;
     background-size: 5%;
 }
+.carousel-indicators .active{
+    background-image: linear-gradient(to right,#FF9C35,#FFD019);
+    width: 50px;
+}
+.carousel-indicators li{
+    background-color: #CECECE;
+    height: 10px;
+    width: 15px;
+    border-radius: 6px;
+    border: none;
+
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.product-cat-title a{
+    color: #FF9C35;
+}
