@@ -36,3 +36,20 @@ body{
 .product-cat-title a{
     color: #FF9C35;
 }
+
+.color-bar{
+    background-image: linear-gradient(to right,#FF9C35,#FFD019);
+    height: 5px;
+    width: 125px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+.cat{
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+.cat:hover{
+    transform: translate(5px,5px);
+}
