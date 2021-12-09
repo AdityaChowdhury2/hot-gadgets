@@ -49,6 +49,7 @@ body{
     height: 200px;
     width: 200px;
     cursor: pointer;
+    box-shadow: 5px 5px 10px gray;
 }
 .cat:hover{
     transform: translate(5px,5px);
